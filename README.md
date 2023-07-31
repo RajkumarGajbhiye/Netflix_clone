@@ -13,7 +13,7 @@ Front Page:
 ![frontpage](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/4f246b28-d242-4595-8cae-baec6648a0d3)
 
 SignUp:
-![signIn1](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/998e2862-10d6-441c-ae54-f6b573e8fbb6)
+![signup1](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/8e56392d-6a43-4cd4-9409-9801410a37d9)
 
 SignIn:
 ![signIn1](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/baef7a08-4465-4267-ae58-718a3f625e50)
