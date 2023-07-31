@@ -10,11 +10,11 @@ const Favorites = () => {
 const [fav,setfav]=useState([]);
   const user = useSelector((state) => state.user.user);
 const[deleted,setdeleted]=useState(false);
-  const favAPI = "http://localhost:5000/user/favorites/";
+  const favAPI = "https://netflix-clone-api-9lfs.onrender.com/user/favorites/";
   useEffect(()=>{
 const getFavorites=async()=>{
   try{
-    const {data}=await axios.get(`http://localhost:5000/user/favorites/${user._id}`);
+    const {data}=await axios.get(`https://netflix-clone-api-9lfs.onrender.com/user/favorites/${user._id}`);
     setfav(data.favorites);
     console.log(data.favorites)
 

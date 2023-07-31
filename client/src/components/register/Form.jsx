@@ -20,7 +20,7 @@ const Form = () => {
   const lang = useSelector((state) => state.lang.lang);
 
  
-  const registerAPI = "http://localhost:5000/auth/register";
+  const registerAPI = "https://netflix-clone-api-9lfs.onrender.com/auth/register";
 
 
   //Focus Animation

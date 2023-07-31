@@ -19,7 +19,7 @@ console.log(data)
     const lang = useSelector((state) => state.lang.lang);
 const user = useSelector((state) => state.user.user);
 const navigate = useNavigate();
-    let favAPI="http://localhost:5000/user/favAdd/";
+    let favAPI="https://netflix-clone-api-9lfs.onrender.com/user/favAdd/";
   const [loading, setLoading] = useState(false);
   const addMyList = async (movie) => {
     console.log(user._id)

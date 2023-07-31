@@ -21,7 +21,7 @@ const Form = () => {
   const lang = useSelector((state) => state.lang.lang);
 
   
-  const loginAPI = "http://localhost:5000/auth/login";
+  const loginAPI = "https://netflix-clone-api-9lfs.onrender.com/auth/login";
 
 
   //Focus Animation

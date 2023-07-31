@@ -34,7 +34,7 @@ const SimilarTv = () => {
 
   const user = useSelector((state) => state.user.user);
   const selectedUser = useSelector((state) => state.user.selectedUser);
-  let favAPI="http://localhost:5000/user/favAdd/";
+  let favAPI="https://netflix-clone-api-9lfs.onrender.com/user/favAdd/";
 
   const dispatch = useDispatch();
   const navigate = useNavigate();

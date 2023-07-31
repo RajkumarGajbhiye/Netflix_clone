@@ -32,7 +32,7 @@ const SimilarMovies = () => {
 
   const lang = useSelector((state) => state.lang.lang);
   const user = useSelector((state) => state.user.user);
-  let favAPI="http://localhost:5000/user/favAdd/";
+  let favAPI="https://netflix-clone-api-9lfs.onrender.com/user/favAdd/";
 
   const APIKEY = "0893444ee2929a0639406fafa887500c";
   const dispatch = useDispatch();
