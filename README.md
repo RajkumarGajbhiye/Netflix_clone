@@ -7,23 +7,33 @@ A Netflix clone MERN app is a web application that emulates the basic functional
 <a href="">Deployed Link</a>
 
 
-## Screenshots
+## Features
 
-![Login Page](https://res.cloudinary.com/arbazcloud/image/upload/v1680247436/ProjectsImages/netflixCloneHome_pbytor.png)
-Login page of the website.
+Front Page:
+![frontpage](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/4f246b28-d242-4595-8cae-baec6648a0d3)
 
-![dashboard page](https://res.cloudinary.com/arbazcloud/image/upload/v1680251100/ProjectsImages/afterlogin_bhym3u.png)
-After Login page of the website
+SignUp:
+![signIn1](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/998e2862-10d6-441c-ae54-f6b573e8fbb6)
 
-![dashboard page](https://res.cloudinary.com/arbazcloud/image/upload/v1680272442/ProjectsImages/netsingle_aqg65f.png)
-details page
+SignIn:
+![signIn1](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/baef7a08-4465-4267-ae58-718a3f625e50)
 
+Home:
+![home](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/2d06bcba-bc39-4c16-ab90-3d3c21caffb7)
 
-![crud page](https://res.cloudinary.com/arbazcloud/image/upload/v1680250971/netfavorite_b2qooe.png)
-favorite
+Series:
+![tv](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/3a315ae7-15c6-4495-a922-ab38d3676b95)
 
+MyList:
+![myList](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/9bf8da92-f77c-4109-aed5-908a47b7b737)
+
+Search:
+![search](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/509cccab-b526-43f8-9938-f21fdeffc194)
+
+Details:
+![details](https://github.com/RajkumarGajbhiye/Netflix_clone/assets/109793318/a625809f-ec54-4047-a7b9-5447b1ac8eb5)
 
 
 ## Tech stack used in this project
 
-React | Redux | Css | Material UI| Node.Js | Express | MogoDb | Git
+React | Redux Toolkit | Tailwind | Node.Js | Express | MongoDb
